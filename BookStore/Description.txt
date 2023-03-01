@@ -1,0 +1,12 @@
+﻿1.See and order books
+2.Create Model of book and order
+3.Id,Name,Author and Price in book
+4.Id,BookID,Quantity and TotalPrice in order
+5.entity 2 dbsets
+6.interface Ibookstore Service.Methods: get all books,get bookbyid,add order,savechanges.
+7.bookstoreservice for realization.
+8.bookstoreservice get all books,get bookbyid,add order.
+9.getallboks:return all books
+10.get bookbyid:returns book by id.
+11.add orders:transfer order class,return name,autor,price,id.
+12.controllers bookstoreController use asyncawait,dependency injection,error handler.
